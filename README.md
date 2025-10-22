@@ -25,7 +25,11 @@ imagens/
 - Formulário funcional com máscaras
 - Imagens otimizadas e com texto alternativo
 - Código validado no **W3C Validator**
+    
+![Validação da página index](imagens/w3c/index-w3c.png)
+![Validação da página projetos](imagens/w3c/projeto-w3c.png)
+![Validação da página cadastro](imagens/w3c/cadastro-w3c.png)
 
 ## 📬 Contato
 Desenvolvido por *Eduardo Vieira de Miranda*  
-[https://github.com/eduardovieirademiranda](https://github.com/eduardovieirademiranda)
+[text](https://github.com/eduardovieirademiranda)
