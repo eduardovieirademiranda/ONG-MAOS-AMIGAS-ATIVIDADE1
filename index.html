@@ -1,74 +1,45 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ONG Mãos Amigas — Ações sociais, contatos e voluntariado</title>
-  <meta name="description" content="Conheça a ONG Mãos Amigas, nossos projetos sociais e como participar como voluntário ou doador. Transforme vidas com a gente." />
-
-  <!-- OPEN GRAPH -->
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="ONG Mãos Amigas — Ações sociais, contatos e voluntariado" />
-  <meta property="og:description" content="Conheça nossos projetos e participe como voluntário ou doador." />
-  <meta property="og:image" content="imagens/ogcover.png" />
-  <meta property="og:locale" content="pt_BR" />
-
-  <!-- TWITTER CARD -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="ONG Mãos Amigas — Ações sociais, contatos e voluntariado" />
-  <meta name="twitter:description" content="Conheça nossos projetos e participe como voluntário ou doador." />
-  <meta name="twitter:image" content="imagens/ogcover.png" />
-
-  <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ONG Mãos Amigas — Página Inicial</title>
 </head>
-
 <body>
   <!-- CABEÇALHO -->
   <header>
-    <div class="navbar">
-      <a class="brand" href="index.html">
-        <img src="imagens/logo.png" alt="Logo ONG Mãos Amigas" class="logo">
-      </a>
-      <nav aria-label="Navegação principal">
-        <ul class="links">
-          <li><a href="index.html" aria-current="page">Início</a></li>
-          <li><a href="projetos.html">Projetos</a></li>
-          <li><a href="cadastro.html">Cadastro</a></li>
-        </ul>
-      </nav>
-    </div>
+    <h1>ONG Mãos Amigas</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastro</a></li>
+      </ul>
+    </nav>
   </header>
 
-  <!-- CAPA -->
-  <section class="hero">
-    <img src="imagens/ogcover.png" alt="Capa da ONG Mãos Amigas" class="hero-img" width="250">
-  </section>
-
   <!-- CONTEÚDO PRINCIPAL -->
-  <main id="app">
-    <nav class="tabs" aria-label="Navegação interna">
-      <a href="#" data-page="home" aria-current="page">Home</a>
-      <a href="#" data-page="destaques">Destaques</a>
-    </nav>
-
-    <!-- HOME -->
-    <section id="home">
-      <h1 class="titulo" id="Juntos"></h1>
+  <main>
+    <section>
+      <h2>Juntos Podemos Transformar Vidas</h2>
       <p>A ONG Mãos Amigas atua em projetos sociais voltados para famílias em situação de vulnerabilidade. Nosso objetivo é oferecer oportunidades e esperança.</p>
 
-      <img src="imagens/inclusao-digital.jpg" alt="Pessoas participando de projeto de inclusão digital" class="img-250">
+      <img src="imagens/inclusao-digital.jpg" alt="Pessoas participando de projeto de inclusão digital">
 
-      <h2 class="titulo">Missão, Visão e Valores</h2>
+      <h2>Missão, Visão e Valores</h2>
+
       <article>
-        <h3 class="subtitulo">Missão</h3>
+        <h3>Missão</h3>
         <p>Promover ações sociais e educativas que contribuam para o bem-estar e o desenvolvimento das comunidades mais vulneráveis.</p>
       </article>
+
       <article>
-        <h3 class="subtitulo">Visão</h3>
+        <h3>Visão</h3>
         <p>Ser reconhecida como uma ONG referência em solidariedade e transformação social, ampliando cada vez mais o alcance dos projetos.</p>
       </article>
+
       <article>
-        <h3 class="subtitulo">Valores</h3>
+        <h3>Valores</h3>
         <ul>
           <li>Empatia e respeito ao próximo</li>
           <li>Transparência nas ações</li>
@@ -77,20 +48,15 @@
         </ul>
       </article>
     </section>
-
-    <!-- DESTAQUES (gerado via JS) -->
-    <section id="destaques" style="display:none">
-      <h2 class="titulo">Projetos em Destaque</h2>
-      <ul id="lista-destaques"></ul>
-    </section>
   </main>
 
   <!-- RODAPÉ -->
   <footer>
     <p>&copy; 2025 ONG Mãos Amigas. Todos os direitos reservados.</p>
-    <p>Contato: <a href="mailto:contato@maosamigas.org">contato@maosamigas.org</a> | Telefone: (11) 98888-7777</p>
+    <p>Contato: 
+      <a href="mailto:contato@maosamigas.org">contato@maosamigas.org</a> | 
+      Telefone: (11) 98888-7777
+    </p>
   </footer>
-
-  <script src="js/app.js" defer></script>
 </body>
 </html>
