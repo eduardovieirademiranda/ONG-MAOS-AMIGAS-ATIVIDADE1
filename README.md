@@ -27,8 +27,8 @@ imagens/
 - Código validado no **W3C Validator**
     
 ![Validação da página index](imagens/index-w3c.png)
-![Validação da página projetos](imagens/docs/projeto-w3c.png)
-![Validação da página cadastro](imagens/docs/cadastro-w3c.png)
+![Validação da página projetos](imagens/projeto-w3c.png)
+![Validação da página cadastro](imagens/cadastro-w3c.png)
 
 ## 📬 Contato
 Desenvolvido por *Eduardo Vieira de Miranda*  
