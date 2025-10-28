@@ -38,11 +38,11 @@ As páginas estão organizadas de forma semântica e as imagens estão centraliz
 
 ### 🖼️ Prints da Validação W3C
 
-### 🖼️ Prints da Validação W3C
+![Validação da página index](https://raw.githubusercontent.com/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE1/main/imagens/index-w3c.png) 
 
-![Validação da página index](imagens/index-w3c.png)  
-![Validação da página projetos](imagens/projetos-w3c.png)  
-![Validação da página cadastro](imagens/cadastro-w3c.png)
+![Validação da página projetos](https://raw.githubusercontent.com/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE1/main/imagens/projetos-w3c.png)  
+
+![Validação da página cadastro](https://raw.githubusercontent.com/eduardovieirademiranda/ONG-MAOS-AMIGAS-ATIVIDADE1/main/imagens/cadastro-w3c.png)
 
 ---
 
