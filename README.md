@@ -38,9 +38,9 @@ As páginas estão organizadas de forma semântica e as imagens estão centraliz
 
 ### 🖼️ Prints da Validação W3C
 
-![Validação da página index](imagens/index-w3c.png)  
-![Validação da página projetos](imagens/projeto-w3c.png)  
-![Validação da página cadastro](imagens/cadastro-w3c.png)
+![Validação da página index](imagens/index-w3c.png)
+![Validação da página projetos](imagens/proj-w3c.png)  
+![Validação da página cadastro](imagens/cad-w3c.png)
 
 ---
 
