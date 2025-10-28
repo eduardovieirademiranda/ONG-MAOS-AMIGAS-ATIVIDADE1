@@ -26,7 +26,7 @@ imagens/
 - Imagens otimizadas e com texto alternativo
 - Código validado no **W3C Validator**
     
-![Validação da página index](imagens/docs/index-w3c.png)
+![Validação da página index](imagens/index-w3c.png)
 ![Validação da página projetos](imagens/docs/projeto-w3c.png)
 ![Validação da página cadastro](imagens/docs/cadastro-w3c.png)
 
